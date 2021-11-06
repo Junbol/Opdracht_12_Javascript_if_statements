@@ -16,7 +16,7 @@ if (age >= 18) {
   console.log("You are not over 18");
 }
 
-if (isFemale == true) {
+if (isFemale === true) {
   console.log("Because you are a female so you have a discount");
 } else {
   console.log("You are not a female");
