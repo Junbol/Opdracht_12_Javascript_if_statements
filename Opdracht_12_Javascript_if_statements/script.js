@@ -22,7 +22,7 @@ if (isFemale === true) {
   console.log("You are not a female");
 }
 
-if (driverStatus == "bob") {
+if (driverStatus === "bob") {
   console.log("You can drive back home safe");
 } else {
   console.log("You are too drunk to drive");
